@@ -1,6 +1,6 @@
 # Microservice ISTIO
 
-A brief description of what the project does:
+A brief description of what the project does and how to run it:
 - Installation of Minikube: Minikube is installed to create a local Kubernetes environment for testing and development purposes. Minikube simplifies the setup process and allows you to run Kubernetes clusters on a single machine.
 - Installation of kubectl: kubectl, the Kubernetes command-line tool, is installed to interact with the Kubernetes clusters.
 - Installation of Google Cloud SDK: For deployment on Google Cloud Platform (GCP), you need to install the Google Cloud SDK, which provides command-line tools for managing resources on GCP.
