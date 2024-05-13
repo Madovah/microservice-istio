@@ -10,4 +10,4 @@ A brief description of what the project does and how to run it:
 - Run Containers: Once the Docker images are built, they are deployed to the Kubernetes cluster using kubectl commands. Pods containing the microservice containers are created, and Kubernetes services are used to expose these microservices to other parts of the system.
 - Accessing the Application: Finally, you can access the deployed microservices application through the Istio gateway endpoint exposed on Google Cloud Platform. This allows you to interact with the microservices via HTTP requests.
 
-![MicroServiceIstio](image_url)
+![MicroServiceIstio](https://github.com/Madovah/microservice-istio/blob/main/MSI.png)
