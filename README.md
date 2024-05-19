@@ -8,6 +8,6 @@ A brief description of what the project does and how to run it:
 - Installation of Istio: Istio is installed on the Kubernetes cluster using the istioctl command-line tool. Istio provides features like traffic management, security, and observability for microservices running on Kubernetes.
 - Build Docker Images: Docker images for each microservice are built using Maven. These images contain the application code and dependencies needed to run the microservices.
 - Run Containers: Once the Docker images are built, they are deployed to the Kubernetes cluster using kubectl commands. Pods containing the microservice containers are created, and Kubernetes services are used to expose these microservices to other parts of the system.
-- Accessing the Application: Finally, you can access the deployed microservices application through the Istio gateway endpoint exposed on Google Cloud Platform. This allows you to interact with the microservices via HTTP requests.
+- Accessing the Application: Finally, you can access the deployed microservices shopping and shipping application through the Istio gateway endpoint exposed on Google Cloud Platform. This allows you to interact with the microservices via HTTP requests.
 
 ![MicroServiceIstio](https://github.com/Madovah/microservice-istio/blob/main/MSI.png)
